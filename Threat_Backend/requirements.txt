@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+aiohttp
+python-whois
+dnspython
+sslyze
+streamlit
+pydantic-settings
+python-dotenv
+gunicorn
+reportlab
+Pillow
+customtkinter
+darkdetect

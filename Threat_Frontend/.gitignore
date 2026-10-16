@@ -1,0 +1,12 @@
+# Streamlit secrets — never commit to git
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
